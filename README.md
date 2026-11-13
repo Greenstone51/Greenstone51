@@ -1,1 +1,1 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Greenstone51&theme=violet-dark&border_radius=10&timezone=%2B1&date_format=n%2Fj%5B%2FY%5D&card_width=600&card_height=250" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Greenstone51&theme=violet-dark&border_radius=10&timezone=%2B1&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=200" alt="GitHub Streak" /></a>
